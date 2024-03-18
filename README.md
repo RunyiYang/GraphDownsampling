@@ -79,3 +79,6 @@ x2: 0.0496849 y2: 0.662647 z2: 0.63962
 x3: 0.532232 y3: 0.37154 z3: 0.397041
 x4: 0.163577 y4: 0.193415 z4: 0.293161
 ```
+
+## 3. Refer to Fast Resampling of 3D Point Clouds via Graphs
+A python implement to https://arxiv.org/abs/1702.06397.
